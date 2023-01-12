@@ -1,0 +1,10 @@
+{
+  "domain": "context_actions",
+  "name": "Context Actions",
+  "documentation": "https://github.com/trishouser/pp-context-actions",
+  "issue_tracker": "https://github.com/trishouser/pp-context-actions/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@trishouser"], 
+  "version": "1.0"
+}
